@@ -7,9 +7,9 @@ A simple plugin to add nicknames to servers.
 ``/nick <nickname> [player]`` Set your own Nickname, optional player argument to set another players nickname.
 
 ## Permissions
-``nickname.use`` Allow use of ``/nick``. Default to all users.
-``nickname.color`` Allow use of colors in Nicks. Defaults to OP.
-``nickname.others`` Allow setting someone elses nickname. Defaults to OP.
+``nickname.use`` Allow use of ``/nick``. Default to all users.  
+``nickname.color`` Allow use of colors in Nicks. Defaults to OP.  
+``nickname.others`` Allow setting someone elses nickname. Defaults to OP.  
 
 ## Credits
 
