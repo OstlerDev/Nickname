@@ -1,0 +1,24 @@
+name: Nickname
+main: com.skylarostler.nickname.Nickname
+version: 1.2
+author: RW_Craft
+description: Nickname Plugin
+commands:
+  nickname:
+    aliases: [nick]
+    description: Change The Nickname Of Players.
+    usage: /Nick [Nickname] <Player>
+    permission: nickname.use
+permissions:
+  nickname.use:
+    default: true
+    description: Allows The Use Of /Nickname.
+  nickname.others:
+    default: op
+    description: Allows Nicknaming Other Players.
+  nickname.color:
+    default: op
+    description: Allows The Use Of Colour Codes In Nicknames.
+  chat.color:
+    default: op
+    description: Allows The Use Of Color Codes In Chat.
