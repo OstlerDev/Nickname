@@ -1,3 +1,5 @@
+[![Nickname Maven Package](https://github.com/FreedomFaighter/Nickname/actions/workflows/maven-package.yml/badge.svg)](https://github.com/FreedomFaighter/Nickname/actions/workflows/maven-package.yml)
+
 # Nickname
 
 A simple plugin to add nicknames to servers.
